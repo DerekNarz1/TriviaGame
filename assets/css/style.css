@@ -1,0 +1,46 @@
+div.jumbotron {
+  position: absolute;
+  height: 200px;
+  width: 50%;
+  left: 50%;
+  top: 55%;
+  transform: translate(-50%, -50%);
+  
+}
+
+body {
+ background-image: url(../images/CN.jpg);
+ background-size: cover; 
+}
+
+div.main-button-container {
+  margin-top: 175px;
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.timer-div {
+  margin-top: 40px;
+}
+
+div.answer {
+  padding-top: 7px;
+  height: 45px;
+  color: black;
+  padding-left: 14px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+div.first-answer {
+  margin-top: 40px;
+}
+
+div.reset-button {
+  margin-top: 40px;
+}
+
+div.summary-correct {
+  margin-top: 40px;
+}
