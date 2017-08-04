@@ -15,7 +15,7 @@ body {
 
 div.main-button-container {
   margin-top: 175px;
-  max-width: 610px;
+  max-width: 980px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -39,8 +39,22 @@ div.first-answer {
 
 div.reset-button {
   margin-top: 40px;
+  
 }
 
 div.summary-correct {
   margin-top: 40px;
+  background-color: white;
+}
+div.Wrong-Answers {
+	background-color: white;
+}
+div.Unanswered {
+	background-color: white;
+}
+div.text-center {
+	background-color: white;
+	font-family: 'Bangers', cursive;
+	font size: 20pt;
+
 }
